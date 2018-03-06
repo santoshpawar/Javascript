@@ -2,9 +2,9 @@
 Basic + Advance
 
 
-1. Variables
-2. Operators
-3. If ..Else
+1.Variables
+2.Operators
+3.If ..Else
 4.Switch case
 5. While Loop
 6.For Loop
